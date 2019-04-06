@@ -1,0 +1,80 @@
+<resources>
+    <string name="app_name">Keep Fit</string>
+    <string name="check_bmi">CHECK BMI</string>
+    <string name="check_bmr">CHECK BMR</string>
+    <string name="check_bmi_small">Check BMI</string>
+    <string name="check_bmr_small">Check BMR</string>
+    <string name="about_bmi">About BMI</string>
+    <string name="about_bmr">About BMR</string>
+    <string name="height">Height(cm)</string>
+    <string name="weight">Weight(kg)</string>
+    <string name="age">Age</string>
+
+    <!--Navigation Drawer Strings-->
+    <string name="drawer_open">Open Navigation Drawer</string>
+    <string name="drawer_close">Close Navigation Drawer</string>
+
+    <!--Various BMI outcomes-->
+    <string name="bmi_value_underweight">"You are Underweight \nYour BMI is "</string>
+    <string name="bmi_value_normal">"Your Weight is Normal \nYour BMI is "</string>
+    <string name="bmi_value_overweight">"You are Overweight \nYour BMI is "</string>
+    <string name="bmi_value_obese">"You are Obese \nYour BMI is "</string>
+
+    <string name="maintain_bmi">How To Maintain a Healthy BMI</string>
+    <string name="increase_bmi">How To Improve Your Weight/BMI</string>
+    <string name="decrease_bmi">How To Reduce Your Weight</string>
+    <string name="precautions">Precautions</string>
+
+    <!--How to Increase BMI-->
+    <string name="increase_bmi_1">Consider high-protein meats, which can help you to build muscle.
+        Also, choose nutritious carbohydrates, such as brown rice and other whole grains.</string>
+    <string name="increase_bmi_2">Enjoy snacks that contain plenty of protein and healthy carbohydrates.</string>
+    <string name="increase_bmi_3">While too much aerobic exercise will burn calories and work against
+        your weight goal, strength training can help. This includes weightlifting or yoga.</string>
+
+    <!--Weight Gain Precaution-->
+    <string name="increase_bmi_precaution">Before beginning a weight gain program, talk to your doctor.
+        Being underweight may be due to an underlying health problem. It won’t be corrected by diet changes.</string>
+
+    <!--Weight Loss Precaution-->
+    <string name="decrease_bmi_precaution">Before beginning a weight loss program, talk to your doctor.
+        Being overweight may be due to an underlying health problem. It won’t be corrected by diet changes.</string>
+
+    <!--How to Maintain healthy BMI-->
+    <string name="maintain_bmi_1">It’s important to exercise at least 60\u002D90 minutes most days of the week.</string>
+    <string name="maintain_bmi_2">Drink a lot of water in order to stay adequately hydrated.</string>
+    <string name="maintain_bmi_3">Eat a balanced diet.</string>
+
+    <!--How to Reduce BMI in Overweight Individuals-->
+    <string name="reduce_bmi_1">Eat a healthy diet, incorporate a lot of healthy vegetables into your diet</string>
+    <string name="reduce_bmi_2">Reduce your sugar intake especially during breakfast</string>
+    <string name="reduce_bmi_3">Incorporate regular physical exercise into your day-to-day routine</string>
+    <string name="reduce_bmi_4">Seek professional guidance</string>
+
+    <!--How to Reduce BMI in Obese Individuals-->
+    <!--<string name="reduce_bmi_5"></string>-->
+    <!--<string name="reduce_bmi_6"></string>-->
+
+    <!--Miscellaneous-->
+    <string name="line_break">\n</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="night_mode">Night Mode</string>
+    <string name="about">About</string>
+    <string name="about_app">About App</string>
+    <string name="splash_screen">Splash Screen</string>
+    <string name="about_developer">About Developer</string>
+    <string name="appearance">Appearance</string>
+</resources>
